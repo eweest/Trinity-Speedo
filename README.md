@@ -8,14 +8,14 @@
 
 Для работы скрипта так же требуется: **[CLEO 4+](http://cleo.li/?lang=ru)**, **[SAMPFUNCS 5+](https://blast.hk/threads/17/)**.
 
-`/speedo` - Окно помощи
-`/speedo (pos)ition` - Изменение позиции
-`/speedo color [HEX]` - Установить цвет в формате HEX (прим. FF00FF)
-`/speedo procent` - Показать/Скрыть показ топлива в процентах
-`/speedo view(vw)` - Показать/Скрыть
-`/speedo reset` - Сброс всех настроек
-`/speedo resetall` - Удаление всех файлов кэша
-`/speedo (up)date` - Включить/Выключить автообновление
+`/speedo` - Окно помощи<br>
+`/speedo (pos)ition` - Изменение позиции<br>
+`/speedo color [HEX]` - Установить цвет в формате HEX (прим. FF00FF)<br>
+`/speedo procent` - Показать/Скрыть показ топлива в процентах<br>
+`/speedo view(vw)` - Показать/Скрыть<br>
+`/speedo reset` - Сброс всех настроек<br>
+`/speedo resetall` - Удаление всех файлов кэша<br>
+`/speedo (up)date` - Включить/Выключить автообновление<br>
 
 # Изображение
 ![IMG](https://user-images.githubusercontent.com/34632663/176964949-d9d458cc-4bbc-4586-aa05-afdb123d5d10.png)
