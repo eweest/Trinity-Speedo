@@ -18,7 +18,8 @@
 `/speedo (up)date` - Включить/Выключить автообновление<br>
 
 # Изображение
-![IMG](https://user-images.githubusercontent.com/34632663/176964949-d9d458cc-4bbc-4586-aa05-afdb123d5d10.png)
+![IMG](https://user-images.githubusercontent.com/34632663/176973756-939ba064-1e71-4580-ba43-8003a9661230.png)
+
 
 # Наша группа VK
 **[TRINITY GTA Mods](https://vk.com/gtatrinitymods)**
