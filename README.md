@@ -10,7 +10,7 @@
 
 `/speedo` - Окно помощи<br>
 `/speedo` `(pos)ition` - Изменение позиции<br>
-`/speedo` `color [HEX]` - Установить цвет в формате HEX (прим. FF00FF)<br>
+`/speedo` `color` `[HEX]` - Установить цвет в формате HEX (прим. FF00FF)<br>
 `/speedo` `procent` - Показать/Скрыть показ топлива в процентах<br>
 `/speedo` `view(vw)` - Показать/Скрыть<br>
 `/speedo` `reset` - Сброс всех настроек<br>
