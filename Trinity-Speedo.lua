@@ -335,7 +335,7 @@ function main()
 					for _, vehID in ipairs(VEH_IDs) do
 						if getDriverOfCar(veh) == PLAYER_PED and getVehID == vehID then
 							if not sampIsScoreboardOpen() then
-								if not sampTextdrawIsExists(TABLE_TDW["INV"]) and not sampTextdrawIsExists(chipID) then
+								if not sampTextdrawIsExists(invID) and not sampTextdrawIsExists(chipID) then
 									if DB[GET_SERVER]["VIEW"] then
 										createSpeedo() -- CREATE CUSTOM SPEEDO
 									end
